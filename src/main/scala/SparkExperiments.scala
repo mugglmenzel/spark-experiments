@@ -1,3 +1,4 @@
+import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
 /**
@@ -13,10 +14,19 @@ object SparkExperiments extends App {
     .foreach(println)
 
 
-  sc.textFile(SparkExperiments.getClass.getResource("pg2009.txt").toString)
-    .flatMap(_.split(" ")).map(word => (word, word.length))
-    .reduceByKey(_ + _)
-    .sortBy(_._2, false)
-    .take(10).foreach(println)
+  lazy val darwin = sc.textFile(SparkExperiments.getClass.getResource("pg2009.txt").toString)
+  lazy val inputFolder = sc.wholeTextFiles(SparkExperiments.getClass.getResource("input").toString)
 
+  printHotWords(darwin, 10)
+
+  printHotWords(inputFolder.map(_._2), 5)
+
+
+
+
+  def printHotWords(documents: RDD[String], maxListSize: Int) =
+    documents.flatMap(_.split(" ")).cache().map(word => (word, word.length))
+      .reduceByKey(_ + _)
+      .sortBy(_._2, false)
+      .take(maxListSize).foreach(println)
 }
