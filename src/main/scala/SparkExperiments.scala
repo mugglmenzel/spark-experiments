@@ -1,4 +1,4 @@
-import org.apache.spark.{SparkContext, SparkConf}
+import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * Created by mugglmenzel on 15/06/15.
@@ -11,5 +11,12 @@ object SparkExperiments extends App {
     .map(i => (i, i.length)).collect().toList
     .sortBy(_._2)(Ordering[Int].reverse)
     .foreach(println)
+
+
+  sc.textFile(SparkExperiments.getClass.getResource("pg2009.txt").toString)
+    .flatMap(_.split(" ")).map(word => (word, word.length))
+    .reduceByKey(_ + _)
+    .sortBy(_._2, false)
+    .take(10).foreach(println)
 
 }
