@@ -38,8 +38,6 @@ object SparkExperiments extends App {
   printHotWords(wordsInInputFolder.filter(_.startsWith("m")), 5)
 
 
-
-
   def convertToWords(documents: RDD[String]) = documents.flatMap(_.split(" ")).cache()
 
   def printHotWords(documents: RDD[String], maxListSize: Int) =
