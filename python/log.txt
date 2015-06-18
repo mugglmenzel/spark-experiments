@@ -1,0 +1,846 @@
+
+
+ ====================================
+ =  RUNNING QUERY I                 =
+ ====================================
+
+Spark Context: 2565
+Loading Files: 462
+
+Run 0: 19147 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 1: 11824 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 2: 11673 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 3: 11770 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 4: 11418 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 5: 11593 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 6: 11448 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 7: 11462 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 8: 11453 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+Run 9: 11205 (JAN: 1453872, JUN: 1577917, MAR: 1486280, MAY: 1153699) 
+
+Average: 12299.0 f
+
+ ====================================
+ =  RUNNING QUERY III(Cache Result) =
+ ====================================
+
+LOCAL
+
+Spark Context: 2465
+
+Loading Files: 220
+Run 0: 240501
+Run 1: 7889
+Run 2: 7508
+Run 3: 7516
+Run 4: 7425
+Run 5: 7245
+Run 6: 7325
+Run 7: 7019
+Run 8: 8866
+
+Average: 30129.0 f
+
+
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+LOCAL
+
+Spark Context: 2494
+
+Loading Files: 223
+Run 0: 232911
+Run 1: 7356
+Run 2: 7054
+Run 3: 6995
+Run 4: 6724
+Run 5: 6696
+Run 6: 6599
+Run 7: 6720
+Run 8: 6956
+
+Average: 28801.0 f
+
+
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2529
+
+Loading Files: 494
+Run 0: 26506
+Run 1: 1450
+Run 2: 1221
+Run 3: 1118
+Run 4: 1037
+Run 5: 1025
+Run 6: 1019
+Run 7: 1766
+Run 8: 1086
+
+Average: 3622.0 f
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2526
+
+Loading Files: 474
+Run 0: 26903
+Run 1: 1388
+Run 2: 1246
+Run 3: 1110
+Run 4: 1357
+Run 5: 1039
+Run 6: 2041
+Run 7: 1000
+Run 8: 1127
+
+Average: 3721.0 f
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 2548
+
+Loading Files: 493
+Run 0: 28483
+Run 1: 1965
+Run 2: 1643
+Run 3: 1376
+Run 4: 1167
+Run 5: 1810
+Run 6: 3677
+Run 7: 1406
+Run 8: 1001
+Run 9: 1085
+
+Average: 4845.0 f
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 3233
+
+Loading Files: 488
+Run 0: 30552
+Run 1: 2125
+Run 2: 3147
+Run 3: 1220
+Run 4: 1196
+Run 5: 1275
+Run 6: 1844
+Run 7: 1590
+Run 8: 1008
+Run 9: 1445
+
+Addup: 45402
+Average: 5044.0 f
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 2646
+
+Loading Files: 500
+Run 0: 28159
+Run 1: 1598
+Run 2: 1468
+Run 3: 1152
+Run 4: 1130
+Run 5: 1131
+Run 6: 1154
+Run 7: 1056
+Run 8: 1067
+Run 9: 1608
+
+Addup: 39523
+Average: 4391.0 f
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 2556
+
+Loading Files: 506
+Run 0: 26719
+Run 1: 2148
+Run 2: 1452
+
+Addup: 3600
+Average: 1800.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2505
+
+Loading Files: 478
+Run 0: 26762
+Run 1: 1554
+Run 2: 2046
+Run 3: 1190
+Run 4: 1122
+Run 5: 1747
+Run 6: 1259
+Run 7: 1090
+Run 8: 1163
+Run 9: 1006
+
+Average: 1353.0
+
+ ====================================
+ =  RUNNING QUERY I                 =
+ ====================================
+
+Spark Context: 2973
+Loading Files: 500
+
+Run 0: 19223
+Run 1: 11916
+Run 2: 12200
+Run 3: 12103
+Run 4: 11523
+Run 5: 12165
+Run 6: 11327
+Run 7: 11547
+Run 8: 11411
+Run 9: 11288
+
+Average: 11720.0
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 3113
+
+Loading Files: 532
+Run 0: 27251
+Run 1: 3098
+Run 2: 1454
+Run 3: 1835
+Run 4: 1230
+Run 5: 1214
+Run 6: 1174
+Run 7: 1454
+Run 8: 1094
+Run 9: 1011
+
+Addup: 13564
+Average: 1507.0
+
+ ====================================
+ =  RUNNING QUERY I                 =
+ ====================================
+
+Spark Context: 2520
+Loading Files: 465
+
+Run 0: 19535
+Run 1: 12307
+Run 2: 12011
+Run 3: 12676
+Run 4: 11671
+Run 5: 11568
+Run 6: 11871
+Run 7: 11680
+Run 8: 12052
+Run 9: 12124
+
+Average: 11995.0
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 2627
+
+Loading Files: 529
+Run 0: 27118
+Run 1: 1537
+Run 2: 1373
+Run 3: 1358
+Run 4: 1199
+Run 5: 1035
+Run 6: 1525
+Run 7: 1111
+Run 8: 972
+Run 9: 1148
+
+Addup: 11259
+Average: 1251.0
+
+ ====================================
+ =  RUNNING QUERY II                =
+ ====================================
+
+Spark Context: 3641
+
+Loading Files: 671
+Run 0: 28113
+Run 1: 1595
+Run 2: 1193
+Run 3: 1270
+Run 4: 1029
+Run 5: 999
+Run 6: 984
+Run 7: 950
+Run 8: 1264
+Run 9: 907
+
+Average: 1132.0
+
+ ====================================
+ =  RUNNING QUERY II                =
+ ====================================
+
+Spark Context: 2553
+
+Loading Files: 490
+Run 0: 26881
+Run 1: 1441
+Run 2: 1318
+Run 3: 1816
+Run 4: 1173
+Run 5: 1141
+Run 6: 1061
+Run 7: 1060
+Run 8: 1252
+Run 9: 942
+
+Average: 1244.0
+
+ ====================================
+ =  RUNNING QUERY I                 =
+ ====================================
+
+Spark Context: 2778
+Loading Files: 523
+
+Run 0: 21049
+Run 1: 13235
+Run 2: 12526
+Run 3: 26618
+Run 4: 12112
+Run 5: 12562
+Run 6: 12519
+Run 7: 12310
+Run 8: 11763
+Run 9: 11396
+
+Average: 13893.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 3460
+
+
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 3231
+
+Loading Files: 1534
+Run 0: 191759
+Run 1: 1920
+Run 2: 2067
+Run 3: 1436
+Run 4: 1268
+Run 5: 1400
+Run 6: 1197
+Run 7: 1155
+Run 8: 1318
+Run 9: 1221
+
+Average: 1442.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 3034
+
+Loading Files: 1265
+Run 0: 30022
+Run 1: 1728
+Run 2: 2497
+Run 3: 1525
+Run 4: 1210
+Run 5: 1220
+Run 6: 1372
+Run 7: 1123
+Run 8: 1183
+Run 9: 1065
+
+Average: 1435.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2924
+
+Loading Files: 642
+Run 0: 8618
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2953
+
+Loading Files: 616
+Run 0: 350780
+
+
+ ====================================
+ =  RUNNING QUERY VI                =
+ ====================================
+
+Spark Context: 2983
+
+Loading Files: 587
+Run 0: 367794
+Run 1: 103507
+Run 2: 98712
+Run 3: 107329
+Run 4: 103106
+Run 5: 100978
+Run 6: 97905
+Run 7: 100559
+Run 8: 97807
+Run 9: 98289
+
+Average: 100910.0
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2733
+
+Loading Files: 506
+
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2626
+
+Loading Files: 537
+
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2522
+
+Loading Files: 504
+
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2616
+
+Loading Files: 497
+
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2533
+
+Loading Files: 507
+Run 0: 19326
+
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2481
+
+Loading Files: 468
+Run 0: 18744
+Run 1: 897
+Run 2: 776
+Run 3: 677
+Run 4: 662
+Run 5: 687
+Run 6: 709
+Run 7: 624
+Run 8: 641
+Run 9: 670
+
+Average: 704.0
+
+ ====================================
+ =  RUNNING QUERY IV                =
+ ====================================
+
+Spark Context: 2514
+
+Loading Files: 522
+Run 0: 318285
+Run 1: 98906
+Run 2: 95658
+Run 3: 97262
+Run 4: 97198
+Run 5: 96425
+Run 6: 99319
+Run 7: 94116
+Run 8: 94852
+Run 9: 99584
+
+Average: 97035.0
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 2596
+
+Loading Files: 511
+Run 0: 25817
+Run 1: 1501
+Run 2: 1248
+Run 3: 1207
+Run 4: 1185
+Run 5: 1123
+Run 6: 1073
+Run 7: 1084
+Run 8: 1534
+Run 9: 1013
+
+Addup: 10968
+Average: 1218.0
+
+ ====================================
+ =  RUNNING QUERY IV                =
+ ====================================
+
+Spark Context: 2544
+
+Loading Files: 527
+Run 0: 337523
+Run 1: 103242
+Run 2: 101338
+Run 3: 97008
+Run 4: 98757
+Run 5: 96918
+Run 6: 99507
+Run 7: 98232
+Run 8: 100548
+Run 9: 97588
+
+Average: 99237.0
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2754
+
+Loading Files: 568
+Run 0: 21084
+Run 1: 901
+Run 2: 746
+Run 3: 739
+Run 4: 687
+Run 5: 770
+Run 6: 681
+Run 7: 660
+Run 8: 638
+Run 9: 658
+
+Average: 720.0
+
+ ====================================
+ =  RUNNING QUERY II                =
+ ====================================
+
+Spark Context: 2923
+
+Loading Files: 556
+Run 0: 28073
+Run 1: 1482
+Run 2: 1283
+Run 3: 1169
+Run 4: 1066
+Run 5: 1310
+Run 6: 1052
+Run 7: 1025
+Run 8: 974
+Run 9: 1012
+
+Average: 1152.0
+
+ ====================================
+ =  RUNNING QUERY IIb               =
+ ====================================
+
+Spark Context: 2714
+
+Loading Files: 553
+Run 0: 27683
+Run 1: 947
+Run 2: 868
+Run 3: 1073
+Run 4: 804
+Run 5: 791
+Run 6: 787
+Run 7: 705
+Run 8: 711
+Run 9: 688
+
+Average: 819.0
+
+ ====================================
+ =  RUNNING QUERY IIb               =
+ ====================================
+
+Spark Context: 2478
+
+Loading Files: 494
+Run 0: 27279
+Run 1: 1013
+Run 2: 848
+Run 3: 816
+Run 4: 945
+Run 5: 736
+Run 6: 785
+Run 7: 732
+Run 8: 744
+Run 9: 723
+
+Average: 815.0
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 7445
+
+Loading Files: 1593
+Run 0: 41925
+Run 1: 1518
+Run 2: 1319
+Run 3: 1320
+Run 4: 1170
+Run 5: 1092
+Run 6: 1045
+Run 7: 1009
+Run 8: 1028
+Run 9: 957
+
+Addup: 10458
+Average: 1162.0
+
+ ====================================
+ =  RUNNING QUERY III               =
+ ====================================
+
+Spark Context: 3014
+
+Loading Files: 462
+Run 0: 25611
+Run 1: 1603
+Run 2: 1346
+Run 3: 1169
+Run 4: 1114
+Run 5: 1025
+Run 6: 1029
+Run 7: 1023
+Run 8: 1000
+Run 9: 989
+
+Addup: 10298
+Average: 1144.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2566
+
+Loading Files: 528
+Run 0: 308492
+Run 1: 101616
+Run 2: 100530
+Run 3: 101851
+Run 4: 95328
+Run 5: 99495
+Run 6: 93919
+Run 7: 90800
+Run 8: 90798
+Run 9: 91189
+
+Average: 96169.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 2702
+
+Loading Files: 546
+Run 0: 260617
+Run 1: 89836
+Run 2: 88538
+Run 3: 87395
+Run 4: 89035
+Run 5: 88415
+Run 6: 88391
+Run 7: 88140
+Run 8: 89370
+Run 9: 89447
+
+Average: 88729.0
+
+ ====================================
+ =  RUNNING QUERY V                 =
+ ====================================
+
+Spark Context: 7493
+
+Loading Files: 989
+
+
+ ====================================
+ =  RUNNING QUERY X                 =
+ ====================================
+
+Spark Context: 2555
+
+Loading Files: 497
+
+
+ ====================================
+ =  RUNNING QUERY Xb                =
+ ====================================
+
+Spark Context: 2448
+
+Loading Files: 461
+
+
+ ====================================
+ =  RUNNING QUERY Xb                =
+ ====================================
+
+Spark Context: 2498
+
+Loading Files: 488
+Run 0: 18589
+Run 1: 798
+Run 2: 658
+Run 3: 599
+Run 4: 602
+Run 5: 586
+Run 6: 550
+Run 7: 1110
+Run 8: 579
+Run 9: 536
+
+Average: 668.0
+
+ ====================================
+ =  RUNNING QUERY Xb                =
+ ====================================
+
+Spark Context: 2464
+
+Loading Files: 467
+Run 0: 18633
+Run 1: 781
+Run 2: 656
+Run 3: 616
+Run 4: 588
+Run 5: 566
+Run 6: 556
+Run 7: 630
+Run 8: 548
+Run 9: 612
+
+Average: 617.0
+
+ ====================================
+ =  RUNNING QUERY Xb                =
+ ====================================
+
+Spark Context: 2493
+
+Loading Files: 505
+Run 0: 18628
+Run 1: 1026
+Run 2: 709
+Run 3: 608
+Run 4: 606
+Run 5: 555
+Run 6: 552
+Run 7: 556
+Run 8: 550
+Run 9: 538
+
+Average: 633.0
+
+ ====================================
+ =  RUNNING QUERY X                 =
+ ====================================
+
+Spark Context: 2479
+
+Loading Files: 492
+Run 0: 23107
+Run 1: 12403
+Run 2: 9482
+Run 3: 10183
+Run 4: 12642
+Run 5: 7823
+Run 6: 7794
+Run 7: 7812
+Run 8: 7847
+Run 9: 7843
+
+Average: 9314.0
+
+ ====================================
+ =  RUNNING QUERY Ib (ma            =
+ ====================================
+
+Spark Context: 2742
+
+Loading Files: 888
+Run 0: 73888
+Run 1: 907
+Run 2: 761
+Run 3: 680
+Run 4: 713
+Run 5: 679
+Run 6: 639
+Run 7: 622
+Run 8: 661
+Run 9: 631
+
+Average: 699.0
